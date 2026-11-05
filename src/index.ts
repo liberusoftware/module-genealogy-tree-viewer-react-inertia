@@ -1,2 +1,8 @@
-/** Registration metadata for this skeleton; not a domain or API schema. */
-export const moduleDefinition = {id: 'module-boilerplate-react-inertia', presentation: 'laravel-inertia-react', status: 'skeleton'} as const;
+/** Skeleton registration metadata; this is not a domain/API contract. */
+export const moduleDefinition = {
+  "id": "module-genealogy-tree-viewer-react-inertia",
+  "presentation": "laravel-inertia-react",
+  "capabilityKey": "liberusoftware/module-genealogy-tree-viewer",
+  "status": "skeleton",
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/genealogy/react/tree-viewer.md"
+} as const;

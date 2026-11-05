@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-tree-viewer-react-inertia",
+  "capabilityKey": "liberusoftware/module-genealogy-tree-viewer",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-genealogy-tree-viewer-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/genealogy/nextjs/tree-viewer.md",
+  "presentationPlan": "projects/genealogy/react/tree-viewer.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
